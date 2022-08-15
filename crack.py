@@ -16,7 +16,7 @@ print("""\033[31m
    ^    ^
 """)
 print("==============================================")
-print("\033[33m11]Hash chaker\n2]Hash length\n3]Hash type\n4]MD5 Encrypt\n5]MD5 Decrypte\033")
+print("\033[33m11]Hash check\n2]Hash length\n3]Hash type\n4]MD5 Encrypt\n5]MD5 Decrypte\033")
 print("==============================================")
 choose = input("inter number : ")
 if choose == '1':
