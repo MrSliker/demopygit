@@ -9,4 +9,5 @@ etc..
 
 #then start using the code
 3- python3 scanner.py (enter the ip for the victom)
+
 #and if there is any open port it will display in the terminal
